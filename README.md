@@ -6,7 +6,7 @@
 wthallys/wthallys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!--
 <a href="https://github.com/wthallys" style="width: 100%;">
   
   <div style="display:flex;justify-content:space-between;width:100%;">
@@ -31,3 +31,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 </a>
+-->
