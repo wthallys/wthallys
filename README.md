@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 [![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical)](https://github.com/wthallys/github-readme-stats)
 -->
 
-![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical)
+![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=dark)
