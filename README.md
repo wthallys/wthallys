@@ -18,7 +18,5 @@ You can click the Preview link to take a look at your changes.
 [![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical)](https://github.com/wthallys/github-readme-stats)
 -->
 
-<div align="center">
   ![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wthallys&hide=html,css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
