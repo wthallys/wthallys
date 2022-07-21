@@ -6,6 +6,7 @@
 wthallys/wthallys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <!---
 <div align="center">
   <a href="https://github.com/wthallys">
@@ -15,7 +16,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical)](https://github.com/wthallys/github-readme-stats)
+
+[![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical)](https://github.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wthallys&layout=compact&theme=tokyonight)](https://github.com/wthallys/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wthallys&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
+readme stats repository: (https://github.com/anuraghazra/github-readme-stats)
+--->
