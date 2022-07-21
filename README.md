@@ -16,10 +16,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<div>
+  <a href="https://github.com/wthallys">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wthallys&layout=compact&theme=radical"/>
+</div>
 
-[![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical)](https://github.com/)
+
+
+<!---
+[![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical)](https://github.com/wthallys)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wthallys&layout=compact&theme=tokyonight)](https://github.com/wthallys/)
-
+--->
 
 
 <!---
