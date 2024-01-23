@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wthallys
-- 👀 I’m interested in frontend development.
+- 👀 I’m interested in fullstack development.
 - 🌱 I’m currently learning React.
 
 <!---
