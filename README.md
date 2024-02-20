@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wthallys&layout=compact&theme=tokyonight)](https://github.com/wthallys/)
 --->
 
-![Snake animation](https://github.com/wthallys/wthallys/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wthallys/wthallys/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 readme stats repository: (https://github.com/anuraghazra/github-readme-stats)
