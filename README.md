@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  ##
 
 <!---
 [![Wyddenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wthallys&show_icons=true&theme=radical)](https://github.com/wthallys)
