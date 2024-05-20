@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wthallys
-- 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in Backend development.
+- 🌱 I’m currently learning Java.
 
 <!---
 wthallys/wthallys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
